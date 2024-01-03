@@ -6,7 +6,7 @@
 <pre>pip3 install DateTime </pre>
 <pre>cd web_lock<pre>
   
-<b2>Run</b2>
+<p><b2>Run</b2></p>
   
 <pre>python main.py</pre>
 
