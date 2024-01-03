@@ -7,5 +7,6 @@
 <p></p>
 <pre>cd web_lock <pre>
   <p></p>
+  Run
 <p><pre>python main.py </pre></p>
 
